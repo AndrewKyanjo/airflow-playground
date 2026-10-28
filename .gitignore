@@ -1,0 +1,7 @@
+# .gitignore
+.env
+.venv/
+logs/
+__pycache__/
+*.pyc
+postgres-db-volume/
